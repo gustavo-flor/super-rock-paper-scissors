@@ -1,4 +1,0 @@
-repository "super-rock-paper-scissors@ogustaflor@cloud"
-  path "/"
-    br "/main"
-    co "/main"
